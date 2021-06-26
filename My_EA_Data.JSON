@@ -1,0 +1,215 @@
+{
+  "Player_Information": {
+    "Internal_EA_ID": "XXXXXX",
+    "Account_Email": "clrvdv@gmail.com",
+    "Email_Verification_Status": "VERIFIED",
+    "Date_of_Birth": "1986-09-26",
+    "Country": "ZA",
+    "Language": "en",
+    "Locale": "ZA",
+    "Status": "ACTIVE",
+    "Terms_of_Service_Version": "1.0",
+    "Date_Created": "2018-12-19T19:37Z",
+    "Date_Modified": "2020-01-31T19:51Z",
+    "Registration_Source": "312046",
+    "Show_Email_on_Origin": "NO_ONE",
+    "Email_Discoverable_on_Origin": "EVERYONE",
+    "Second_Factor_Authentication_Enabled": "false"
+  },
+  "Entitlements": [
+    {
+      "Entitlement_Tag": "dataShare",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2020-01-30T20:17Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2020-01-30T20:17Z"
+    },
+    {
+      "Entitlement_Tag": "CGD_20",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2020-01-30T20:17Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2020-01-30T20:17Z"
+    },
+    {
+      "Entitlement_Tag": "CGW_PREFERRED_PERSONA_20",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2020-01-30T20:17Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2020-01-30T20:17Z"
+    },
+    {
+      "Entitlement_Tag": "NFS16_PREORDER_VISUAL_PACK",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2020-01-22T09:19Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2020-01-22T09:19Z"
+    },
+    {
+      "Entitlement_Tag": "NFS16_PREORDER_PERFORMANCE_PACK",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2020-01-22T09:19Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2020-01-22T09:19Z"
+    },
+    {
+      "Entitlement_Tag": "NFS16_DELUXE_EDITION_CONTENT",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2020-01-22T09:19Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2020-01-22T09:19Z"
+    },
+    {
+      "Entitlement_Tag": "ONLINE_ACCESS",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2019-02-16T14:05Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2019-02-16T14:05Z"
+    }
+  ],
+  "Personas": [
+    {
+      "Internal_ID": "XXXXXX",
+      "Display_Name": "CLR0986",
+      "Non-Unique_Name": "clr0986",
+      "Namespace": "ps3",
+      "Status": "ACTIVE",
+      "Viewable_By": "EVERYONE",
+      "Date_Created": "2018-12-19T19:37Z"
+    },
+    {
+      "Internal_ID": "XXXXXX",
+      "Display_Name": "ClR8609",
+      "Non-Unique_Name": "clr8609",
+      "Namespace": "cem_ea_id",
+      "Status": "ACTIVE",
+      "Viewable_By": "EVERYONE",
+      "Date_Created": "2018-12-19T19:37Z"
+    }
+  ],
+  "Privacy_Settings": {
+    "Facebook_Discoverable": "NO_ONE",
+    "XBOX_Tag_Discoverable": "NO_ONE",
+    "PSN_ID_Discoverable": "EVERYONE",
+    "Show_Real_Name": "NO_ONE",
+    "Date_Created": "2019-12-22T23:42Z",
+    "Date_Modified": "2020-01-31T19:51Z",
+    "Created_By": "Nexus",
+    "Modified_By": "GOP-Lockbox",
+    "Source": "eadm"
+  },
+  "Marketing_Preference": {
+    "Internal_ID": "XXXXXX",
+    "Status": "ACTIVE",
+    "Promotional_Email_Opt-In": "true",
+    "Promotional_Email_Opt-In_Date": "2019-07-30T12:07Z",
+    "Promotional_Email_Frequency": "WEEKLY",
+    "Date_Modified": "2020-01-31T19:52Z",
+    "Modified_By": "GOP-Lockbox",
+    "Date_Created": "2019-07-30T12:07Z",
+    "Created_By": "Nexus"
+  },
+  "_source": {
+    "_source": {
+      "loginLog": [
+        {
+          "Event_Type": "loginLog",
+          "IP_Geolocation": "Johannesburg-ZA-2000",
+          "IP": "197.185.100.*",
+          "Timestamp": "2020-10-09T18:54:15.870Z",
+          "Event_Status": "SUCCEEDED"
+        },
+        {
+          "Event_Type": "loginLog",
+          "IP_Geolocation": "Johannesburg-ZA-2000",
+          "IP": "197.185.100.*",
+          "Timestamp": "2020-10-09T18:40:27.471Z",
+          "Event_Status": "SUCCEEDED"
+        },
+        {
+          "Event_Type": "loginLog",
+          "IP_Geolocation": "Johannesburg-ZA-2000",
+          "IP": "197.185.100.*",
+          "Timestamp": "2020-10-09T17:28:24.082Z",
+          "Event_Status": "SUCCEEDED"
+        },
+        {
+          "Event_Type": "loginLog",
+          "IP_Geolocation": "Johannesburg-ZA-2000",
+          "IP": "197.185.100.*",
+          "Timestamp": "2020-10-09T13:19:59.006Z",
+          "Event_Status": "SUCCEEDED"
+        },
+        {
+          "Event_Type": "loginLog",
+          "IP_Geolocation": "Johannesburg-ZA-2000",
+          "IP": "197.185.100.*",
+          "Timestamp": "2020-10-09T07:58:18.450Z",
+          "Event_Status": "SUCCEEDED"
+        },
+        {
+          "Event_Type": "loginLog",
+          "IP_Geolocation": "Johannesburg-ZA-2000",
+          "IP": "197.185.97.*",
+          "Timestamp": "2020-10-06T18:55:18.769Z",
+          "Event_Status": "SUCCEEDED"
+        },
+        {
+          "Event_Type": "loginLog",
+          "IP_Geolocation": "Johannesburg-ZA-2000",
+          "IP": "197.185.97.*",
+          "Timestamp": "2020-10-06T18:53:54.160Z",
+          "Event_Status": "SUCCEEDED"
+        },
+        {
+          "Event_Type": "loginLog",
+          "IP_Geolocation": "Johannesburg-ZA-2000",
+          "IP": "197.185.109.*",
+          "Timestamp": "2020-10-01T09:51:06.504Z",
+          "Event_Status": "SUCCEEDED"
+        },
+        {
+          "Event_Type": "loginLog",
+          "IP_Geolocation": "Johannesburg-ZA-2000",
+          "IP": "197.185.109.*",
+          "Timestamp": "2020-09-26T21:12:22.485Z",
+          "Event_Status": "SUCCEEDED"
+        },
+        {
+          "Event_Type": "loginLog",
+          "IP_Geolocation": "Johannesburg-ZA-2000",
+          "IP": "197.185.109.*",
+          "Timestamp": "2020-09-26T15:56:46.320Z",
+          "Event_Status": "SUCCEEDED"
+        }
+      ],
+      "accountChangeLog": [
+        {
+          "Event_Type": "accountChangeLog",
+          "IP_Geolocation": "Johannesburg-ZA-2000",
+          "Account_Change": "[email\u003dclrvdv@gmail.com\u0026status\u003dDISABLED\u0026twofactorType\u003dEMAIL]",
+          "IP": "197.185.100.*",
+          "Timestamp": "2020-10-09T21:33:13.789Z",
+          "Event_Status": "SUCCEEDED"
+        }
+      ],
+      "TFAVerificationLog": [],
+      "passwordResetChangeLog": [],
+      "playerControlActionLog": []
+    }
+  }
+}
